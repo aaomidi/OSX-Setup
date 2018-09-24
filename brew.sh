@@ -37,6 +37,7 @@ apps=(
   visual-studio-code
   java8
   java
+  qbittorrent
 )
 
 echo "Installing tools with homebrew"
